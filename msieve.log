@@ -1,0 +1,231 @@
+Tue May 17 21:52:30 2022  
+Tue May 17 21:52:30 2022  
+Tue May 17 21:52:30 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 21:52:30 2022  random seeds: 03fe5f97 bb66deab
+Tue May 17 21:52:30 2022  factoring 11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 (125 digits)
+Tue May 17 21:52:30 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 21:52:30 2022  commencing quadratic sieve (100-digit input)
+Tue May 17 21:52:30 2022  using multiplier of 41
+Tue May 17 21:52:30 2022  using generic 64kb sieve core
+Tue May 17 21:52:30 2022  sieve interval: 18 blocks of size 65536
+Tue May 17 21:52:30 2022  processing polynomials in batches of 6
+Tue May 17 21:52:30 2022  using a sieve bound of 2681729 (97481 primes)
+Tue May 17 21:52:30 2022  using large prime bound of 402259350 (28 bits)
+Tue May 17 21:52:30 2022  using double large prime bound of 3076883377187400 (43-52 bits)
+Tue May 17 21:52:30 2022  using trial factoring cutoff of 52 bits
+Tue May 17 21:52:30 2022  polynomial 'A' values have 13 factors
+Tue May 17 21:52:35 2022  18 relations (18 full + 0 combined from 936 partial), need 97577
+Tue May 17 21:52:35 2022  p2 factor: 41
+Tue May 17 21:52:35 2022  p3 factor: 271
+Tue May 17 21:52:35 2022  p3 factor: 751
+Tue May 17 21:52:35 2022  p5 factor: 21401
+Tue May 17 21:52:35 2022  p5 factor: 25601
+Tue May 17 21:52:35 2022  p10 factor: 1797655751
+Tue May 17 21:52:35 2022  c100 factor: 1351969458611915612477095858083194977421742923149009437736780042659821836630441054381780862545744001
+Tue May 17 21:52:35 2022  elapsed time 00:00:05
+Tue May 17 21:52:48 2022  
+Tue May 17 21:52:48 2022  
+Tue May 17 21:52:48 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 21:52:48 2022  random seeds: 92ea7cc6 dd93bbd4
+Tue May 17 21:52:48 2022  factoring 1111111111111111111111111111111111111111111111111111111111111111111 (67 digits)
+Tue May 17 21:52:49 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 21:52:49 2022  commencing quadratic sieve (61-digit input)
+Tue May 17 21:52:49 2022  using multiplier of 1
+Tue May 17 21:52:49 2022  using generic 64kb sieve core
+Tue May 17 21:52:49 2022  sieve interval: 3 blocks of size 65536
+Tue May 17 21:52:49 2022  processing polynomials in batches of 34
+Tue May 17 21:52:49 2022  using a sieve bound of 64157 (3200 primes)
+Tue May 17 21:52:49 2022  using large prime bound of 3207850 (21 bits)
+Tue May 17 21:52:49 2022  using trial factoring cutoff of 22 bits
+Tue May 17 21:52:49 2022  polynomial 'A' values have 8 factors
+Tue May 17 21:52:51 2022  3736 relations (1652 full + 2084 combined from 17103 partial), need 3296
+Tue May 17 21:52:51 2022  begin with 18755 relations
+Tue May 17 21:52:51 2022  reduce to 5544 relations in 2 passes
+Tue May 17 21:52:51 2022  attempting to read 5544 relations
+Tue May 17 21:52:51 2022  recovered 5544 relations
+Tue May 17 21:52:51 2022  recovered 4718 polynomials
+Tue May 17 21:52:51 2022  attempting to build 3736 cycles
+Tue May 17 21:52:51 2022  found 3736 cycles in 1 passes
+Tue May 17 21:52:51 2022  distribution of cycle lengths:
+Tue May 17 21:52:51 2022     length 1 : 1652
+Tue May 17 21:52:51 2022     length 2 : 2084
+Tue May 17 21:52:51 2022  largest cycle: 2 relations
+Tue May 17 21:52:51 2022  matrix is 3200 x 3736 (0.5 MB) with weight 101317 (27.12/col)
+Tue May 17 21:52:51 2022  sparse part has weight 101317 (27.12/col)
+Tue May 17 21:52:51 2022  filtering completed in 5 passes
+Tue May 17 21:52:51 2022  matrix is 2963 x 3027 (0.4 MB) with weight 77513 (25.61/col)
+Tue May 17 21:52:51 2022  sparse part has weight 77513 (25.61/col)
+Tue May 17 21:52:51 2022  commencing Lanczos iteration
+Tue May 17 21:52:51 2022  memory use: 0.5 MB
+Tue May 17 21:52:51 2022  lanczos halted after 48 iterations (dim = 2961)
+Tue May 17 21:52:51 2022  recovered 64 nontrivial dependencies
+Tue May 17 21:52:51 2022  p6 factor: 493121
+Tue May 17 21:52:51 2022  p20 factor: 79863595778924342083
+Tue May 17 21:52:51 2022  p41 factor: 28213380943176667001263153660999177245677
+Tue May 17 21:52:51 2022  elapsed time 00:00:03
+Tue May 17 21:53:24 2022  
+Tue May 17 21:53:24 2022  
+Tue May 17 21:53:24 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 21:53:24 2022  random seeds: 87303e0d 0aff145d
+Tue May 17 21:53:24 2022  factoring 11111111111111111111111111111111111111111111111111111111111111111111111 (71 digits)
+Tue May 17 21:53:24 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 21:53:24 2022  commencing quadratic sieve (71-digit input)
+Tue May 17 21:53:24 2022  using multiplier of 1
+Tue May 17 21:53:24 2022  using generic 64kb sieve core
+Tue May 17 21:53:24 2022  sieve interval: 6 blocks of size 65536
+Tue May 17 21:53:24 2022  processing polynomials in batches of 17
+Tue May 17 21:53:24 2022  using a sieve bound of 222773 (10000 primes)
+Tue May 17 21:53:24 2022  using large prime bound of 22277300 (24 bits)
+Tue May 17 21:53:24 2022  using trial factoring cutoff of 24 bits
+Tue May 17 21:53:24 2022  polynomial 'A' values have 9 factors
+Tue May 17 21:53:42 2022  10222 relations (4838 full + 5384 combined from 55585 partial), need 10096
+Tue May 17 21:53:42 2022  begin with 60423 relations
+Tue May 17 21:53:42 2022  reduce to 14940 relations in 2 passes
+Tue May 17 21:53:42 2022  attempting to read 14940 relations
+Tue May 17 21:53:42 2022  recovered 14940 relations
+Tue May 17 21:53:42 2022  recovered 12588 polynomials
+Tue May 17 21:53:42 2022  attempting to build 10222 cycles
+Tue May 17 21:53:42 2022  found 10222 cycles in 1 passes
+Tue May 17 21:53:42 2022  distribution of cycle lengths:
+Tue May 17 21:53:42 2022     length 1 : 4838
+Tue May 17 21:53:42 2022     length 2 : 5384
+Tue May 17 21:53:42 2022  largest cycle: 2 relations
+Tue May 17 21:53:42 2022  matrix is 10000 x 10222 (1.5 MB) with weight 300722 (29.42/col)
+Tue May 17 21:53:42 2022  sparse part has weight 300722 (29.42/col)
+Tue May 17 21:53:42 2022  filtering completed in 3 passes
+Tue May 17 21:53:42 2022  matrix is 7981 x 8045 (1.2 MB) with weight 254534 (31.64/col)
+Tue May 17 21:53:42 2022  sparse part has weight 254534 (31.64/col)
+Tue May 17 21:53:42 2022  commencing Lanczos iteration
+Tue May 17 21:53:42 2022  memory use: 1.6 MB
+Tue May 17 21:53:43 2022  lanczos halted after 128 iterations (dim = 7975)
+Tue May 17 21:53:43 2022  recovered 60 nontrivial dependencies
+Tue May 17 21:53:43 2022  p30 factor: 241573142393627673576957439049
+Tue May 17 21:53:43 2022  p41 factor: 45994811347886846310221728895223034301839
+Tue May 17 21:53:43 2022  elapsed time 00:00:19
+Tue May 17 21:54:07 2022  
+Tue May 17 21:54:07 2022  
+Tue May 17 21:54:07 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 21:54:07 2022  random seeds: 7562b1e2 be5324f5
+Tue May 17 21:54:07 2022  factoring 11111111111111111111111111111111111111111111111111111111111111111111111111111111111 (83 digits)
+Tue May 17 21:54:07 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 21:54:07 2022  commencing quadratic sieve (83-digit input)
+Tue May 17 21:54:07 2022  using multiplier of 1
+Tue May 17 21:54:07 2022  using generic 64kb sieve core
+Tue May 17 21:54:07 2022  sieve interval: 6 blocks of size 65536
+Tue May 17 21:54:07 2022  processing polynomials in batches of 17
+Tue May 17 21:54:07 2022  using a sieve bound of 1357907 (52059 primes)
+Tue May 17 21:54:07 2022  using large prime bound of 124927444 (26 bits)
+Tue May 17 21:54:07 2022  using trial factoring cutoff of 27 bits
+Tue May 17 21:54:07 2022  polynomial 'A' values have 10 factors
+Tue May 17 21:59:25 2022  52228 relations (26275 full + 25953 combined from 279433 partial), need 52155
+Tue May 17 21:59:26 2022  begin with 305708 relations
+Tue May 17 21:59:26 2022  reduce to 74847 relations in 2 passes
+Tue May 17 21:59:26 2022  attempting to read 74847 relations
+Tue May 17 21:59:26 2022  recovered 74847 relations
+Tue May 17 21:59:26 2022  recovered 68111 polynomials
+Tue May 17 21:59:26 2022  attempting to build 52228 cycles
+Tue May 17 21:59:26 2022  found 52228 cycles in 1 passes
+Tue May 17 21:59:26 2022  distribution of cycle lengths:
+Tue May 17 21:59:26 2022     length 1 : 26275
+Tue May 17 21:59:26 2022     length 2 : 25953
+Tue May 17 21:59:26 2022  largest cycle: 2 relations
+Tue May 17 21:59:26 2022  matrix is 52059 x 52228 (7.8 MB) with weight 1622718 (31.07/col)
+Tue May 17 21:59:26 2022  sparse part has weight 1622718 (31.07/col)
+Tue May 17 21:59:26 2022  filtering completed in 3 passes
+Tue May 17 21:59:26 2022  matrix is 38322 x 38386 (6.2 MB) with weight 1326639 (34.56/col)
+Tue May 17 21:59:26 2022  sparse part has weight 1326639 (34.56/col)
+Tue May 17 21:59:26 2022  saving the first 48 matrix rows for later
+Tue May 17 21:59:26 2022  matrix includes 64 packed rows
+Tue May 17 21:59:26 2022  matrix is 38274 x 38386 (4.9 MB) with weight 1073323 (27.96/col)
+Tue May 17 21:59:26 2022  sparse part has weight 896591 (23.36/col)
+Tue May 17 21:59:26 2022  using block size 8192 and superblock size 786432 for processor cache size 8192 kB
+Tue May 17 21:59:26 2022  commencing Lanczos iteration
+Tue May 17 21:59:26 2022  memory use: 4.6 MB
+Tue May 17 21:59:27 2022  lanczos halted after 607 iterations (dim = 38274)
+Tue May 17 21:59:27 2022  recovered 19 nontrivial dependencies
+Tue May 17 21:59:27 2022  p13 factor: 3367147378267
+Tue May 17 21:59:27 2022  p28 factor: 9512538508624154373682136329
+Tue May 17 21:59:27 2022  p42 factor: 346895716385857804544741137394505425384477
+Tue May 17 21:59:27 2022  elapsed time 00:05:20
+Tue May 17 22:00:25 2022  
+Tue May 17 22:00:25 2022  
+Tue May 17 22:00:25 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 22:00:25 2022  random seeds: 109f75d5 21e09d63
+Tue May 17 22:00:25 2022  factoring 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 (97 digits)
+Tue May 17 22:00:25 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 22:00:25 2022  commencing quadratic sieve (89-digit input)
+Tue May 17 22:00:25 2022  using multiplier of 1
+Tue May 17 22:00:25 2022  using generic 64kb sieve core
+Tue May 17 22:00:25 2022  sieve interval: 17 blocks of size 65536
+Tue May 17 22:00:25 2022  processing polynomials in batches of 6
+Tue May 17 22:00:25 2022  using a sieve bound of 1565203 (59333 primes)
+Tue May 17 22:00:25 2022  using large prime bound of 125216240 (26 bits)
+Tue May 17 22:00:25 2022  using double large prime bound of 376520976327840 (42-49 bits)
+Tue May 17 22:00:25 2022  using trial factoring cutoff of 49 bits
+Tue May 17 22:00:25 2022  polynomial 'A' values have 11 factors
+Tue May 17 22:00:41 2022  245 relations (241 full + 4 combined from 9928 partial), need 59429
+Tue May 17 22:00:41 2022  p8 factor: 12004721
+Tue May 17 22:00:41 2022  c89 factor: 92556179448994367391887834053878562534782033760810527051075248738484727059555245899601591
+Tue May 17 22:00:41 2022  elapsed time 00:00:16
+Tue May 17 22:00:43 2022  
+Tue May 17 22:00:44 2022  
+Tue May 17 22:00:44 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 22:00:44 2022  random seeds: 2f38f42f acaccfe0
+Tue May 17 22:00:44 2022  factoring 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 (97 digits)
+Tue May 17 22:00:44 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 22:00:44 2022  commencing quadratic sieve (89-digit input)
+Tue May 17 22:00:44 2022  using multiplier of 1
+Tue May 17 22:00:44 2022  using generic 64kb sieve core
+Tue May 17 22:00:44 2022  sieve interval: 17 blocks of size 65536
+Tue May 17 22:00:44 2022  processing polynomials in batches of 6
+Tue May 17 22:00:44 2022  using a sieve bound of 1565203 (59333 primes)
+Tue May 17 22:00:44 2022  using large prime bound of 125216240 (26 bits)
+Tue May 17 22:00:44 2022  using double large prime bound of 376520976327840 (42-49 bits)
+Tue May 17 22:00:44 2022  using trial factoring cutoff of 49 bits
+Tue May 17 22:00:44 2022  polynomial 'A' values have 11 factors
+Tue May 17 22:00:44 2022  restarting with 241 full and 9928 partial relations
+Tue May 17 22:00:53 2022  384 relations (374 full + 10 combined from 16070 partial), need 59429
+Tue May 17 22:00:53 2022  p8 factor: 12004721
+Tue May 17 22:00:53 2022  c89 factor: 92556179448994367391887834053878562534782033760810527051075248738484727059555245899601591
+Tue May 17 22:00:53 2022  elapsed time 00:00:09
+Tue May 17 22:00:57 2022  
+Tue May 17 22:00:57 2022  
+Tue May 17 22:00:57 2022  Msieve v. 1.54 (SVN unknown)
+Tue May 17 22:00:57 2022  random seeds: 0f661d1d c6447e4a
+Tue May 17 22:00:57 2022  factoring 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 (97 digits)
+Tue May 17 22:00:57 2022  no P-1/P+1/ECM available, skipping
+Tue May 17 22:00:57 2022  commencing quadratic sieve (89-digit input)
+Tue May 17 22:00:57 2022  using multiplier of 1
+Tue May 17 22:00:57 2022  using generic 64kb sieve core
+Tue May 17 22:00:57 2022  sieve interval: 17 blocks of size 65536
+Tue May 17 22:00:57 2022  processing polynomials in batches of 6
+Tue May 17 22:00:57 2022  using a sieve bound of 1565203 (59333 primes)
+Tue May 17 22:00:57 2022  using large prime bound of 125216240 (26 bits)
+Tue May 17 22:00:57 2022  using double large prime bound of 376520976327840 (42-49 bits)
+Tue May 17 22:00:57 2022  using trial factoring cutoff of 49 bits
+Tue May 17 22:00:57 2022  polynomial 'A' values have 11 factors
+Tue May 17 22:00:57 2022  restarting with 374 full and 16070 partial relations
+Tue May 17 22:03:09 2022  2108 relations (1902 full + 206 combined from 79773 partial), need 59429
+Tue May 17 22:03:09 2022  p8 factor: 12004721
+Tue May 17 22:03:09 2022  c89 factor: 92556179448994367391887834053878562534782033760810527051075248738484727059555245899601591
+Tue May 17 22:03:09 2022  elapsed time 00:02:12
+Mon Feb 24 23:12:07 2025  
+Mon Feb 24 23:12:07 2025  
+Mon Feb 24 23:12:07 2025  Msieve v. 1.54 (SVN unknown)
+Mon Feb 24 23:12:07 2025  random seeds: 6a0030fc 9aae6c94
+Mon Feb 24 23:12:07 2025  factoring 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 (97 digits)
+Mon Feb 24 23:12:07 2025  no P-1/P+1/ECM available, skipping
+Mon Feb 24 23:12:07 2025  commencing quadratic sieve (89-digit input)
+Mon Feb 24 23:12:07 2025  using multiplier of 1
+Mon Feb 24 23:12:07 2025  using generic 32kb sieve core
+Mon Feb 24 23:12:07 2025  sieve interval: 33 blocks of size 32768
+Mon Feb 24 23:12:07 2025  processing polynomials in batches of 7
+Mon Feb 24 23:12:07 2025  using a sieve bound of 1565203 (59333 primes)
+Mon Feb 24 23:12:07 2025  using large prime bound of 125216240 (26 bits)
+Mon Feb 24 23:12:07 2025  using double large prime bound of 376520976327840 (42-49 bits)
+Mon Feb 24 23:12:07 2025  using trial factoring cutoff of 49 bits
+Mon Feb 24 23:12:07 2025  polynomial 'A' values have 11 factors
+Mon Feb 24 23:12:25 2025  446 relations (438 full + 8 combined from 17157 partial), need 59429
+Mon Feb 24 23:12:25 2025  p8 factor: 12004721
+Mon Feb 24 23:12:25 2025  c89 factor: 92556179448994367391887834053878562534782033760810527051075248738484727059555245899601591
+Mon Feb 24 23:12:25 2025  elapsed time 00:00:18
