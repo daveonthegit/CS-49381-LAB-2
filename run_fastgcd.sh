@@ -37,7 +37,7 @@ run_fastgcd() {
     # 📝 Write decimal moduli to temp file
     printf "%s\n%s\n" "$target_dec" "$mod_dec" > "$TEMP_FILE"
     dos2unix "$TEMP_FILE" >/dev/null
-
+    
     # 🏎️ Run fastgcd
     gcd_output=$("$FASTGCD_PATH" "$TEMP_FILE" 2>/dev/null)
 
