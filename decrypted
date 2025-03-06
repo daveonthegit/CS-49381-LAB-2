@@ -1,0 +1,55 @@
+GET / HTTP/1.1
+Host: 127.0.0.1:44330
+Sec-Fetch-Site: none
+Connection: keep-alive
+Sec-Fetch-Mode: navigate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Safari/605.1.15
+Accept-Language: en-US,en;q=0.9
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+
+
+HTTP/1.0 200 ok
+Content-type: text/html
+
+<HTML><BODY BGCOLOR="#ffffff">
+<pre>
+
+s_server -cert server-cert.pem -key server-privkey.pem -www -tls1 -no_dhe -no_cache -accept 44330 -cipher AES256-SHA 
+Secure Renegotiation IS supported
+Ciphers supported in s_server binary
+TLSv1/SSLv3:AEAD-CHACHA20-POLY1305-SHA256TLSv1/SSLv3:AEAD-AES256-GCM-SHA384   
+TLSv1/SSLv3:AEAD-AES128-GCM-SHA256   TLSv1/SSLv3:AES256-SHA               
+---
+Ciphers common between both SSL end points:
+AEAD-AES128-GCM-SHA256     AEAD-AES256-GCM-SHA384     AEAD-CHACHA20-POLY1305-SHA256
+AES256-SHA
+---
+New, TLSv1/SSLv3, Cipher is AES256-SHA
+SSL-Session:
+    Protocol  : TLSv1
+    Cipher    : AES256-SHA
+    Session-ID: 
+    Session-ID-ctx: 01000000
+    Master-Key: DEECD3519D52FEA5020DB0FCD55D68AF88C2C16492E3A9A0A6F9669972A6875626A15A5849638D50F99B6ECA233CDB0F
+    Start Time: 1739890192
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+---
+   0 items in the session cache
+   0 client connects (SSL_connect())
+   0 client renegotiates (SSL_connect())
+   0 client connects that finished
+   0 server accepts (SSL_accept())
+   0 server renegotiates (SSL_accept())
+   1 server accepts that finished
+   0 session cache hits
+   8 session cache misses
+   0 session cache timeouts
+   0 callback cache hits
+   0 cache full overflows (20480 allowed)
+---
+no client certificate available
+</BODY></HTML>
+
